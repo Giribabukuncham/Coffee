@@ -1,0 +1,107 @@
+navbar{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    gap:10px;
+    align-items: center;
+    
+}
+
+navbar .menu a{
+    color: white;
+    padding:15px;
+}
+
+.part1{
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+   
+  }
+
+  .part1 img {
+    text-align: center;
+    padding: 20px;
+  }
+ 
+  .sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+.product{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding:30px;
+}
+
+.GF{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    padding: 35px;
+    font-size: 20px;
+    
+}
+
+.GF .mocha1{
+
+    border: 5px solid orange;
+    padding: 100px;
+}
+ 
+.line hr{
+
+    border-color: orange;
+    width: 400px;
+    
+   
+}
+
+.footer{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 60px;
+    background-color: black;
+    color: white;
+}
+
+span{
+
+    color: orange;
+}
+
+.copy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+.button1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40%;
+    padding: 10px;
+    background-color: orange;
+ }
+
+ button{
+    padding: 10px;
+    background-color: orange;
+ }
